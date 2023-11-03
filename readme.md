@@ -1,4 +1,4 @@
-# Curso de JavaScript e TypeScript do Básico ao Avançado
+# Curso de JavaScript e TypeScript do Básico ao Avançado - Parte de JavaScript
 
 Este repositório é dedicado ao curso de JavaScript e TypeScript ministrado pelo professor Luiz Otávio Miranda na plataforma Udemy.
 
